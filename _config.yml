@@ -1,17 +1,24 @@
 # site settings
 title: Peidong Mei
-subtitle: by HTML5 UP
+subtitle: Pei
 email: p.mei@outlook.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: I am a Turing Research Fellow at the Univeirsity of Exeter and Alan Turing Insistute. My research interests generally lie in understanding how social processes affect our understanding of the word. Specially, moral attitude and  in human-AI interactions; decision making in social dynimics. AI development and application. and development, moral understanding and decision making and the application of various research methods and technologies in social dynamics. At Turing, she is keen to improve human-AI collaboration from a social science perspective.
+ focuses on moral development of children and AI, human-AI interactions. 
+technologies that apply Artificial Intelligence for education and information accessibility. 
+In particular, my work employs Natural Language Processing approaches to facilitate reading and understanding. 
+I am especially interested in studying the real capabilities of systems for several Natural Language Generation tasks, 
+such as Text Simplification, Summarisation and Machine Translation. In order to do that, my collaborators and I create language resources, 
+design evaluation methodologies or metrics, 
+and implement models using machine learning techniques..
+
+baseurl: "/pdmei.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+Address: Data Centric Engineering Group, Harrison Building, Streatham Campus,University of Exeter
+City: Exeter
+Postcode: EX4 4QF
+Country: United kingdom
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
